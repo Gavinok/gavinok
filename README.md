@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 [![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinok)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinok&layout=compact&exclude_repo=dwm,dmenu,st-1,st,dwm-archived,DWMIM,dotfiles,ugrind)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://raw.githubusercontent.com/gavinok/github-stats/master/generated/overview.svg#gh-dark-mode-only)
